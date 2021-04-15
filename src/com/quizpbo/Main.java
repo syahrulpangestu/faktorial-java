@@ -1,10 +1,9 @@
 package com.quizpbo;
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         int key = 1;
 
         while (key == 1) {
